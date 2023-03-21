@@ -1,0 +1,10 @@
+Exemplo1 : calcular nota e frequencia(faltas e presença) de dois alunos
+1.Ler a 1º nota
+2.Ler a 2º nota
+3.calcular media
+4.mostrar media
+5. Ler o total de presença
+6.Ler o total de faltas
+7.calcular a % de frequencia
+8.mostrar a % de frequencia
+9.se media>50 e frequencia>75
